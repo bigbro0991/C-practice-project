@@ -596,7 +596,7 @@ int main() {
 
 **继承是面向对象三大特性之一**
 
-有些类与类之间存在特殊的关系，例如下图中:![](C:\Users\29444\OneDrive\Documents\GitHub\CPP-practice-project\Cpp learning\1544861202252.png)
+有些类与类之间存在特殊的关系，例如下图中:https://github.com/bigbro0991/CPP-practice-project/blob/master/Cpp%20learning/1544861202252.png
 
 我们发现，定义这些类时，下级别的成员除了拥有上一级的共性，还有自己的特性。
 
