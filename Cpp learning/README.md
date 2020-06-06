@@ -632,7 +632,7 @@ B 类称为父类 或 基类
 私有（private）：访问权限最低；只能是该类内部函数互相调用，派生类、外部函数都不能访问。
 保护（protect）：访问权限中间；该类内部函数、派生类都能访问，外部类、外部函数不能访问
 
-![image]([https://github.com/bigbro0991/CPP-practice-project/blob/master/Cpp%20learning/image002.png](https://github.com/bigbro0991/CPP-practice-project/blob/master/Cpp learning/image002.png))
+![image](https://github.com/bigbro0991/CPP-practice-project/blob/master/Cpp%20learning/image002.png](https://github.com/bigbro0991/CPP-practice-project/blob/master/Cpp learning/image002.png)
 
 #### 继承中的对象模型
 
